@@ -39,8 +39,8 @@ def is_applicable(current_state, precondition):
 ```
 
 ```
-Developed By: Sanjay S
-Register No : 212221230086
+Developed By: Nithishwar S
+Register No : 212221230071
 ```
 
 #### Example - 1
