@@ -1,5 +1,6 @@
 # EX-10 Implementation of Classical Planning Algorithm.
-
+<h3>Name: Nithishwar S</h3>
+<h3>Register Number : 212221230071</h3>
 ### Aim:
 To implement the Classical Planning Algorithm.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 
